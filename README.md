@@ -1,2 +1,3 @@
 # MTFE
-Multiple Transformation Functions Estimation
+
+Multiple transformation function estimation for image enhancement
